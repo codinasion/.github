@@ -32,6 +32,6 @@ Our mission is to provide a welcoming environment for developers of all skill le
 
 <div align="center">
 
-**Made with ❤️ by the Codinasion for everyone**
+**Made with ❤️ by Codinasion for everyone**
 
 </div>
