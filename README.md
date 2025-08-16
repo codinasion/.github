@@ -22,11 +22,11 @@ Our mission is to provide a welcoming environment for developers of all skill le
 
 ### 🛠️ Web Tools & Utilities
 
-| Project                                                      | Description                                                             | Tech Stack            | Status    |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------- | --------------------- | --------- |
-| **[WhatIsMyIP](https://github.com/codinasion/WhatIsMyIP)**   | Find your public IP address instantly with detailed network information | HTML, CSS, JavaScript | ✅ Active |
-| **[AgeCalc-Pro](https://github.com/codinasion/AgeCalc-Pro)** | The most accurate and user-friendly age calculator on the web           | React, TypeScript     | ✅ Active |
-| **[Base64-Pro](https://github.com/codinasion/Base64-Pro)**   | The most reliable Base64 encoder/decoder tool with advanced features    | Vue.js, JavaScript    | ✅ Active |
+| Project                                                      | Description                                                             | URL                                                |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------- |
+| **[WhatIsMyIP](https://github.com/codinasion/WhatIsMyIP)**   | Find your public IP address instantly with detailed network information | [WhatIsMyIP](https://whatismyip.codinasion.com)    |
+| **[Base64 Pro](https://github.com/codinasion/Base64-Pro)**   | The most reliable Base64 encoder/decoder tool with advanced features    | [Base64 Pro](https://base64-pro.codinasion.com)    |
+| **[AgeCalc Pro](https://github.com/codinasion/AgeCalc-Pro)** | The most accurate and user-friendly age calculator on the web           | [AgeCalc Pro](https://age-calc-pro.codinasion.com) |
 
 ---
 
