@@ -24,6 +24,7 @@ Our mission is to provide a welcoming environment for developers of all skill le
 
 | Project                                                                | Description                                                             | URL                                                         |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **[BG Remover](https://github.com/codinasion/BG-Remover)**             | Professional AI-powered background removal in seconds.                  | [BG Remover](https://bg-remover.codinasion.com)             |
 | **[QR Generator Pro](https://github.com/codinasion/QR-Generator-Pro)** | Create professional QR codes with custom branding.                      | [QR Generator Pro](https://qr-generator-pro.codinasion.com) |
 | **[WhatIsMyIP](https://github.com/codinasion/WhatIsMyIP)**             | Find your public IP address instantly with detailed network information | [WhatIsMyIP](https://whatismyip.codinasion.com)             |
 | **[Base64 Pro](https://github.com/codinasion/Base64-Pro)**             | The most reliable Base64 encoder/decoder tool with advanced features    | [Base64 Pro](https://base64-pro.codinasion.com)             |
